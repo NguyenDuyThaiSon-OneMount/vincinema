@@ -25,9 +25,6 @@
   - Nếu thành công, vé sẽ được thêm vào tài khoản của khách hàng và có thể được sử dụng để xem suất chiếu tương ứng
   - Có thể thất bại nếu như trong lúc khách hàng chờ đặt thì ghế khách hàng chọn đã bị người khác đặt mất, hoặc khách đặt vé quá 15 phút từ lúc phim chiếu
   - Tự hủy nếu sau 30 phút khách không hoàn thành việc thanh toán
-- (Vận hành) **Bán vé tại rạp**
-  - Chủ yếu để thử nghiệm làm thế nào để đồng bộ thông tin tình trạng đặt chỗ giữa vé bán tại rạp và vé bán trên các nền tảng online
-  - Có thể thất bại nếu như trong lúc thao tác bán vé thì ghế đã được người khác chọn và thanh toán mất
 - (Khách hàng) **Hủy đặt vé**
   - Nếu thành công, khách hàng sẽ chỉ được hoàn lại phần tiền sau khi đã trừ phí hoàn vé
   - Có thể thất bại nếu như đã quá sát giờ chiếu của suất chiếu
@@ -36,6 +33,10 @@
   - Không thể xem được nếu khách hàng chưa đăng nhập
 - (Khách hàng) **Nạp tiền vào hệ thống**
   - Giả lập việc nạp tiền bằng hình thức thẻ cào 
+
+- (Nếu đủ thời gian) (Vận hành) **Bán vé tại rạp**
+  - Chủ yếu để thử nghiệm làm thế nào để đồng bộ thông tin tình trạng đặt chỗ giữa vé bán tại rạp và vé bán trên các nền tảng online
+  - Có thể thất bại nếu như trong lúc thao tác bán vé thì ghế đã được người khác chọn và thanh toán mất
 
 ## 5. Use case diagram
 
