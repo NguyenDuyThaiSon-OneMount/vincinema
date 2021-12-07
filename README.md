@@ -21,7 +21,7 @@
 
 ## 4. Các chức năng của hệ thống
 - (Tất cả) **Xem danh sách các phim đang chiếu, suất chiếu và tình trạng đặt chỗ của suất chiếu**
-- (Khách hàng) **Đặt vé **
+- (Khách hàng) **Đặt vé**
   - Nếu thành công, vé sẽ được thêm vào tài khoản của khách hàng và có thể được sử dụng để xem suất chiếu tương ứng
   - Có thể thất bại nếu như trong lúc khách hàng chờ đặt thì ghế khách hàng chọn đã bị người khác đặt mất, hoặc khách đặt vé quá 15 phút từ lúc phim chiếu
   - Tự hủy nếu sau 30 phút khách không hoàn thành việc thanh toán
